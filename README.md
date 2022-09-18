@@ -1,7 +1,7 @@
 <div align=center>
 
 ![logo](https://user-images.githubusercontent.com/85369490/190187819-731fc53f-32db-44dd-b5b0-87a3ae312e7c.png)
-<h3 align="ceter">تمارین جاوااسکریپت کلاس آقای بهشتی (رضا رستگار <a href="https://t.me/@reza23ee">reza23ee@</a>)</h3>
+<p align="ceter">تمارین جاوااسکریپت کلاس آقای بهشتی (رضا رستگار <a href="https://t.me/@reza23ee">reza23ee@</a>)</p>
 </div>
 <div align=center>
 
